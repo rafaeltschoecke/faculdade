@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T14:42:50.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.400" etag="FgddEHWHOBU9PGQ5owwT" version="14.4.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-13T14:43:12.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.400" etag="xPrfXYkj88BRU_3ZG1b1" version="14.4.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2021" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,9 +42,6 @@
             <mxPoint x="450" y="540" as="sourcePoint" />
             <mxPoint x="440" y="520" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1-GDpWFCQnMQUsw_qzJS-64" value="Meu primeiro fluxograma de programação&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="294" y="50" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
